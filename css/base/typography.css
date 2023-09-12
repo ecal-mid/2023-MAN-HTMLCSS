@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "riforma-medium";
+	src: url("./../../assets/fonts/RiformaLL-Medium.otf") format("opentype"),
+		url("./../../assets/fonts/RiformaLL-Medium.woff") format("woff");
+}
+
+html,
+body {
+	font-family: "riforma-medium", Arial, Helvetica, sans-serif;
+	font-weight: unset;
+}
